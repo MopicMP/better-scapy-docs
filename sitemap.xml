@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/ip.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/tcp.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/udp.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/icmp.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/ether.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/arp.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/dns.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/sr.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/sr1.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/srp.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/send.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/sendp.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/sniff.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/wrpcap.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/rdpcap.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/hexdump.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/ls.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/lsc.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/traceroute.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/arping.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-scapy-docs/conf.html</loc><priority>0.8</priority></url>
+</urlset>
